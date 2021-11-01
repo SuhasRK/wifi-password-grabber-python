@@ -24,6 +24,5 @@ Contributions are always welcome!
 
 ## Screenshots
 
-![App Screenshot](https://www.mediafire.com/file/gwo9k9fdjqrwita/wifi_ss_LI.jpg/file)
 
 
