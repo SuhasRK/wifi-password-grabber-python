@@ -22,7 +22,6 @@ I want to develop this project in such a way that at end of execution an executa
 
 Contributions are always welcome!
 
-## Screenshots
 
 
 
