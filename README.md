@@ -15,12 +15,23 @@ Command :
   python3 get_wifi_pass.py
 ```
 
-
 ## Developments
 
 I want to develop this project in such a way that at end of execution an executable file will be generated and whoever executes that file , all informations about the gathered in this process will be sent to attacker's mail ID.
 
 Contributions are always welcome!
+
+
+## 🚀 About Me
+__Myself Suhas RK__ \
+__I am currently persuing CSE at PES university Bangalore.__ \
+__My fields of interest are Ethical Hacking and Cyber Security__
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhas-rk-a23734207/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://mobile.twitter.com/SuhasRK2)
+
 
 
 
